@@ -1,7 +1,4 @@
-# Check if a word is an anagrams 
-# Example:
-# find_anagrams("hello") --> False
-# find_anagrams("racecar") --> True
+# Check if a word is an anagrams
 
 def find_anagrams(word1, word2):
     # [assignment] Add your code here
